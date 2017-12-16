@@ -1,0 +1,386 @@
+1513347049544	geckodriver	INFO	geckodriver 0.19.1
+1513347049554	geckodriver	INFO	Listening on 127.0.0.1:58004
+1513347051590	mozrunner::runner	INFO	Running command: "D:\\MLY\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Minux\\AppData\\Local\\Temp\\rust_mozprofile.BNvoJ4zgLeMe"
+1513347052650	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could[ nGFX1-]:o Cot get a uld not getD a DXGI aXGdapterI adapter
+
+[GFX1-]: Could not get a DXGI adapter
+1513347059571	Marionette	INFO	Listening on port 58012
+1513347059913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513347059961	Marionette	DEBUG	Register listener.js for window 4294967297
+1513347059980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513347062382	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513347062382	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513347065219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.comUnable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+d/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513395122029	geckodriver	INFO	geckodriver 0.19.1
+1513395122039	geckodriver	INFO	Listening on 127.0.0.1:62511
+1513395123902	mozrunner::runner	INFO	Running command: "D:\\MLY\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Minux\\AppData\\Local\\Temp\\rust_mozprofile.V4EzUPOiWGaP"
+1513395127522	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513395145958	Marionette	INFO	Listening on port 62522
+1513395146932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513395147062	Marionette	DEBUG	Register listener.js for window 4294967297
+1513395147159	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513395150870	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513395150870	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513395152631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513395154958	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513395158577	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513395158873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513395159302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12896, Chrome_ChildThread] WARNING: pipe error:1513395336858	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513395345716	Marionette	INFO	Listening on port 62988
+1513395346883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513395346940	Marionette	DEBUG	Register listener.js for window 4294967297
+1513395346983	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513395349248	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513395349249	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513395350770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513395353429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513395357046	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513395357365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513395357795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lank"
+1513395559114	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513395559115	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513395560656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513395564424	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513395568006	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513395568293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513395568673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513396385663	geckodriver	INFO	geckodriver 0.19.1
+1513396385672	geckodriver	INFO	Listening on 127.0.0.1:56844
+1513396387163	mozrunner::runner	INFO	Running command: "D:\\MLY\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Minux\\AppData\\Local\\Temp\\rust_mozprofile.PjEji7hPp4rj"
+1513396390203	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513396400335	Marionette	INFO	Listening on port 56852
+1513396400927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513396400976	Marionette	DEBUG	Register listener.js for window 4294967297
+1513396400998	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513396403518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513396403518	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513396404238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513396407048	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513396410623	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513396410916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513396411284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10912, Chrome_ChildThread] WARNING: pipe error:1513397040447	Marionette	INFO	Enabled via --marionette
+1513397052434	Marionette	INFO	Listening on port 55346
+1513397052937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513397052986	Marionette	DEBUG	Register listener.js for window 4294967297
+1513397053005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513397055178	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513397055178	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513397056302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513397058974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513397062548	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513397062815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513397063194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/#signin"
+1513398279499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513398279909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+c/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513398389666	Marionette	INFO	Listening on port 55086
+1513398390082	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Could not get a DXGI adapter
+1513398399281	Marionette	DEBUG	Register listener.js for window 4294967297
+1513398399315	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513398400295	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513398400295	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513398401372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513398403925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+[GFX1-]: Could not get a DXGI adapter
+1513398407480	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513398407747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513398408126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ved DOM event "pageshow" for "https://www.zhihu.com/"
+1513398698234	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513398698538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513398698944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513398782291	geckodriver	INFO	geckodriver 0.19.1
+1513398782302	geckodriver	INFO	Listening on 127.0.0.1:59380
+1513398784452	mozrunner::runner	INFO	Running command: "D:\\MLY\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Minux\\AppData\\Local\\Temp\\rust_mozprofile.y4kIu4Jj9SP9"
+1513398786707	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513398795749	Marionette	INFO	Listening on port 59390
+1513398796057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513398796107	Marionette	DEBUG	Register listener.js for window 4294967297
+1513398796127	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513398798135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513398798136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513398799283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513398801683	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513398805265	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513398805585	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513398805983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+1513415179685	geckodriver	INFO	geckodriver 0.19.1
+1513415179695	geckodriver	INFO	Listening on 127.0.0.1:58421
+1513415181434	mozrunner::runner	INFO	Running command: "D:\\MLY\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Minux\\AppData\\Local\\Temp\\rust_mozprofile.RYO9nwyfBbot"
+1513415183647	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513415192254	Marionette	INFO	Listening on port 58429
+1513415193032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513415193083	Marionette	DEBUG	Register listener.js for window 4294967297
+1513415193116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513415195292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513415195293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513415196549	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513415199230	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513415202786	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415203063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415203429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513415262736	Marionette	DEBUG	Register listener.js for window 4294967297
+1513415262786	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513415263523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513415263523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513415264353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513415266930	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513415270499	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415271227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415271625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11912, Chro1513415389059	Marionette	INFO	Listening on port 52399
+1513415389597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513415399158	Marionette	DEBUG	Register listener.js for window 4294967297
+1513415399190	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513415401545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513415401546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513415402542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513415405115	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513415408737	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415409024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415409413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x240052,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1513415509698	Marionette	INFO	Listening on port 62175
+1513415509805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513415509856	Marionette	DEBUG	Register listener.js for window 4294967297
+1513415509891	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513415512055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513415512056	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513415513093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513415516136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513415519719	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415520020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415520436	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ived DOM event "pageshow" for "https://www.zhihu.com/"
+1513415631728	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415632881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415633279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+el_win.cc, line 346
+1513415929031	Marionette	INFO	Listening on port 53306
+1513415929236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513415929285	Marionette	DEBUG	Register listener.js for window 4294967297
+1513415929316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513415931346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513415931346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513415932548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.zhihu.com/"
+1513415934979	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.zhihu.com/"
+1513415938547	Marionette	DEBUG	Received DOM event "popstate" for "https://www.zhihu.com/#signin"
+1513415938829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513415939209	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+console.error: 
+  Message: Error: Source map at https://static.zhihu.com/heifetz/main.app.1e0a068a266d6acb2d4e.css.map not found or invalid
+  Stack:
+    _fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+_fetchSourceMap/map<@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:578:25
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+console.error: 
+  Protocol error (unknownError): Source map at https://static.zhihu.com/heifetz/main.app.1e0a068a266d6acb2d4e.css.map not found or invalid
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=hu&json=1&p=3&sid=25247_25347_1461_21110_17001_25177_20928&req=2&csor=2&pwd=h&cb=jQuery11020246129067043368_1513416765438&_=1513416765441, line 1: TypeError: jQuery11020246129067043368_1513416765438 is not a function
+Unable to read VR Path Registry from C:\Users\Minux\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main-1.0.2.js, line 579: unreachable code after return statement
+JavaScript error: http://c.csdnimg.cn//atsuggest/atsuggest.js, line 588: TypeError: obj is null
+JavaScript warning: https://pos.baidu.com/bcbm?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=0&ps=1121x906&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1513423621082&cop=zdclassid%3D1257%26zhidaoqid%3D210609008%26zdquery%3D%25E4%25B8%258D%25E4%25BB%25A5%253C%25E5%25BC%2580%25E5%25A4%25B4%25E7%259A%2584%25E6%25AD%25A3%25E5%2588%2599&ti=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%8D%E6%98%AF%E4%BB%A5X%E5%BC%80%E5%A4%B4%E6%80%8E%E4%B9%88%E5%86%99_%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93&ari=2&dbv=0&drs=3&pcs=1263x930&pss=1263x2877&cfv=0&cpl=0&chi=1&cce=true&cec=GBK&tlm=1513423622&prot=2&rw=930&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F210609008.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DRXvE2MFfBpeeVAOvn1JRR60tvkWnmtx42CCLYrb-vzXEf0yVJRrdRL2iFQMMMh4W8Q07QxfIwucsX4XJN4CiZa%26wd%3D%26eqid%3D8d7d3f370005421a000000025a3502da&ecd=1&uc=1280x1024&pis=-1x-1&sr=1280x1024&tcn=1513423622&qn=dce1ec7fe8192cee&dpv=dce1ec7fe8192cee&tt=1513423620702.1730.1819.1820, line 83: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/bcbm?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=0&ps=1121x906&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1513423621082&cop=zdclassid%3D1257%26zhidaoqid%3D210609008%26zdquery%3D%25E4%25B8%258D%25E4%25BB%25A5%253C%25E5%25BC%2580%25E5%25A4%25B4%25E7%259A%2584%25E6%25AD%25A3%25E5%2588%2599&ti=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%8D%E6%98%AF%E4%BB%A5X%E5%BC%80%E5%A4%B4%E6%80%8E%E4%B9%88%E5%86%99_%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93&ari=2&dbv=0&drs=3&pcs=1263x930&pss=1263x2877&cfv=0&cpl=0&chi=1&cce=true&cec=GBK&tlm=1513423622&prot=2&rw=930&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F210609008.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DRXvE2MFfBpeeVAOvn1JRR60tvkWnmtx42CCLYrb-vzXEf0yVJRrdRL2iFQMMMh4W8Q07QxfIwucsX4XJN4CiZa%26wd%3D%26eqid%3D8d7d3f370005421a000000025a3502da&ecd=1&uc=1280x1024&pis=-1x-1&sr=1280x1024&tcn=1513423622&qn=dce1ec7fe8192cee&dpv=dce1ec7fe8192cee&tt=1513423620702.1730.1819.1820, line 83: unreachable code after return statement
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: http://v.liangle.com/nba, line 1560: ReferenceError: GA_googleFillSlotWithSize is not defined
+JavaScript error: https://ra.gtimg.com/sc/vqq/crystal-min.js, line 103: NetworkError: A network error occurred.
+[Parent 740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
